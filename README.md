@@ -38,7 +38,55 @@ Using Python and SQL-based thinking, the analysis transforms raw transactional d
 
 ## 📸 Visualizations
 
-(Add your plots here if saved as images)
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="Monthly revenue chart.png" width="350"/></td>
+      <td><img src="Revenue by country.png" width="350"/></td>
+    </tr>
+    <tr>
+      <td><img src="Customer segmentation.png" width="350"/></td>
+      <td><img src="Customer cluster.png" width="350"/></td>
+    </tr>
+  </table>
+</p>
 
-```python
-# Example placeholder
+---
+
+### 🔍 Key Insights
+- A small group of customers contributes a large portion of total revenue
+- High-frequency customers tend to have higher overall spending
+- Customer activity varies over time, indicating changing engagement levels
+- Certain regions contribute more significantly to overall revenue
+
+---
+
+### 🛠 Tools & Technologies
+- Python
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+- SQL (analytical queries)
+
+---
+
+### 📁 Dataset
+The dataset consists of transactional customer data including:
+- Invoice details
+- Customer IDs
+- Purchase quantity and price
+- Country information
+
+---
+### 🚀 How to Run
+- Install required packages:
+    - pip install pandas numpy matplotlib scikit-learn openpyxl
+- Open the notebook or Python file
+- Run all cells to reproduce the analysis
+
+---
+
+### 📌 Conclusion
+
+This project demonstrates how customer transaction data can be transformed into meaningful insights using data analysis and segmentation techniques. It highlights the importance of understanding customer behavior to support business strategy
