@@ -36,17 +36,17 @@ Using Python and SQL-based thinking, the analysis transforms raw transactional d
 
 ---
 
-## 📸 Visualizations
+## 📸 Visualizations (Python)
 
 <p align="center">
   <table>
     <tr>
-      <td><img src="Monthly revenue chart.png" width="350"/></td>
-      <td><img src="Revenue by country.png" width="350"/></td>
+      <td><img src="Monthly revenue chart.png" width="400"/></td>
+      <td><img src="Revenue by country.png" width="400"/></td>
     </tr>
     <tr>
-      <td><img src="Customer segmentation.png" width="350"/></td>
-      <td><img src="Customer cluster.png" width="350"/></td>
+      <td><img src="Customer segmentation.png" width="400"/></td>
+      <td><img src="Customer cluster.png" width="400"/></td>
     </tr>
   </table>
 </p>
