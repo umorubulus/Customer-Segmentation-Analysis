@@ -41,7 +41,10 @@ Using Python and SQL-based thinking, the analysis transforms raw transactional d
 <p align="center">
   <table>
     <tr>
+       <b>Monthly Revenue Trend</b>
       <td><img src="Monthly revenue chart.png" width="500"/></td>
+      <b>Revenue by Country</b>
+    </td>
       <td><img src="Revenue by country.png" width="500"/></td>
     </tr>
     <tr>
