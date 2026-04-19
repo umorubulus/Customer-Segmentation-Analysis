@@ -56,7 +56,7 @@ Using Python and SQL-based thinking, the analysis transforms raw transactional d
     </td>
     <td align="center">
      <b>Customer Clusters</b> <br>
-      <img src ="Customer cluster.png" width="500"/>
+      <img src ="customer cluster1.png" width="500"/>
     </td>
   </tr>
 </table>
